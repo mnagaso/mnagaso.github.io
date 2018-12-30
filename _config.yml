@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Masaru NAGASO"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. of acoustics.\nI have been studied a wave propagation in sodium cooled fast reactors using Spectral Element Method.\nI also have experiences of Natural Language Processing, Graph theory and Statistics."
   location         : "Aix-en-Provence / France"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=qipSmGUAAAAJ"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/nagaso-masaru-6b20705a/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
