@@ -66,7 +66,7 @@ weight = 4
   showReadTime = false # default
 
   # custom css
-  css = ["css/custom.css"]
+  customCSS = ["css/custom.css"]
 
   [params.comments]
     enabled = false # default
