@@ -1,6 +1,8 @@
 {{ define "main" }}
   <section id="about">
+
     <img style="position: relative;  width: 100%;" src="/images/masaru_elmo.jpg" alt="big top image" />
+
 
   {{ if isset .Site.Params "description" }}
     {{ .Site.Params.description }}
@@ -37,6 +39,12 @@
       </p>
   {{ end }}
   {{ partial "optional-about.html" . }}
+
+    <img style="position: relative;  width: 100%;" src="/images/marseille2.jpg" alt="big top image" />
+    <img style="position: relative;  width: 100%;" src="/images/marseille.jpg" alt="big top image" />
+    <img style="position: relative;  width: 100%;" src="/images/cassis.jpg"alt="big top image" />
+    <img style="position: relative;  width: 100%;" src="/images/masaru2.jpg" alt="big top image" />
+
   </section>
 
   <!--

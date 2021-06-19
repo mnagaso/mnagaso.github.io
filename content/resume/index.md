@@ -4,11 +4,14 @@ title: Resume
 
 ## personal date
 Name: Masaru NAGASO  
+Address: Marseille, France
+<!--
 Address: 7 Square Protis, 13002 Marseille, France  
 Mobile: +33 (0)7 83 15 24 33  
 Email: nagaso@lma.cnrs-mrs.fr  
 Email (private): mnsaru22@gmail.com  
 skype: mnsaru  
+-->
 [github](https://github.com/mnagaso),
 [gitlab](https://gitlab.com/mnagaso),
 [linkedin](https://www.linkedin.com/in/nagaso-masaru-6b20705a/),
@@ -82,17 +85,35 @@ Application of spectral element method and finite-element time-domain methods fo
 Numerical modeling of a wave propagation in side of 4th generation sodium cooled fast reactor.  
 Two french super computers, CURIE@TGCC/CEA, OCCIGEN@CINES were used for making 4D (3D wave simulation + temporal fluctuating heterogeneous situation) massive calculations.
 
+
+![img](/images/3dwavefront.png)
+
+![img](/images/ult5.png)
+
+![img](/images/meshinterp.png)
+
+![img](/images/upsilon_vis.png)
+
+
+
 ### Master thesis
 #### Title:
 Development of the three-dimensional visualization and measurement method for identification of sex and species of small size fish using 25MHz-focusing acoustic probe.
+
 #### Supervisors:
 Prof. Akira Asada  
 (The Underwater Acoustic System Engineering Laboratory, Institute of Industrial Science, The University of Tokyo)  
+
 #### Description:
 Acoustic measurement of fish bodies using a high-frequency focusing acoustic probe.  
 Development of a software for acoustic signal processing and 3D visualization of fish bodies, acoustic reflection intensity image of body surface and internal organs.  
+
+![img](/images/master_1.png)
+
 FDTD simulation of a wave propagation inside of fish bodies.  
 (Implementation of FDTD for elastic wave and PML damping layer.)
+
+![img](/images/master_2.png)
 
 ### Bachelor thesis
 #### Title:
@@ -105,3 +126,4 @@ Application of J-integral method to elasto-plastic FEM analysis using tetrahedra
 Improvement of mesh generation software for FEM analysis.
 
 
+![img](/images/bachelor_one_image.png)
