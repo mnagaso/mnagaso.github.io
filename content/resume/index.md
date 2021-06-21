@@ -27,6 +27,10 @@ CNRS-LMA, Marseille, France
 Co-lead developer of [SPECFEM3D](https://github.com/geodynamics/specfem3d) for [ChEESE project](https://cheese-coe.eu/), which is the international project in the domain of geoscience for preparing Exascale HPC founded from [the European Union's Horizon 2020](https://ec.europa.eu/programmes/horizon2020/en}.
 I/O optimization and designing/developing a workflow toward a full-wave inversion calculation on Exascale HPC machines.
 
+![img](/images/img_for_cheese.png)
+<!--![logo](/images/logo_lma.png) -->
+<!--![logo](/images/logo_cnrs.png)-->
+
 
 ### 01.oct.2018--31.may.2019
 Scientific researcher  

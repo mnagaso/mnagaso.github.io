@@ -50,7 +50,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "I am a post doctoral researcher living in Marseille/France. My scientific interest is Numerical modeling of a wave propagation and performance optimization of numerical code for HPC. I am also interested in the recent techniques of computer science including cluster detection, natural language processing, transformer, encoder-decoder etc... and cats."
+  description = "I am a post doctoral researcher living in Marseille/France🇫🇷. My scientific interest is Numerical modeling of a wave propagation🔊 and performance optimization of numerical code for HPC💻. I am also interested in the recent techniques of computer science including cluster detection, natural language processing, transformer, encoder-decoder etc... and cats😽."
   mainSection = "resume" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 0 # this option will be ignored if showAllPostsOnHomePage is set to true
