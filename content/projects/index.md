@@ -4,6 +4,8 @@ title: Projects
 
 
 # My former and current projects
+(will be updated soon)
+
 
 ## I/O optimization and designing/developing a workflow toward a full-wave inversion calculation on Exascale HPC machines.
 
