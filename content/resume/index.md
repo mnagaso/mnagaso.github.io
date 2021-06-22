@@ -2,7 +2,7 @@
 title: Resume
 ---
 
-## personal date
+## Personal date
 Name: Masaru NAGASO  
 Address: Marseille, France
 <!--
@@ -16,8 +16,11 @@ skype: mnsaru
 [gitlab](https://gitlab.com/mnagaso),
 [linkedin](https://www.linkedin.com/in/nagaso-masaru-6b20705a/),
 [researchgate](https://www.researchgate.net/profile/Masaru-Nagaso)
-    
-   
+ 
+### Language
+- English (fluent)
+- French (intermediate)
+- Japanese (native)
     
 ## Experience
 
