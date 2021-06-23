@@ -62,20 +62,20 @@ Research and development on numerical modeling method for a wave propagation in 
 
 2015--2018
 **PhD**
-Aix-Marseille University
-Aix-en-Procenve, France
+Aix-Marseille University  
+Aix-en-Procenve, France  
 Acoustics
 
 2011--2014
 **MSc**
-The University of Tokyo
-Tokyo, Japan
-Ocean Technology, Policy and Environment
+The University of Tokyo  
+Tokyo, Japan  
+Ocean Technology, Policy and Environment  
 
 2007--2011
 **BSc**
-Tokyo University of Science
-Chiba, Japan
+Tokyo University of Science  
+Chiba, Japan  
 Mechanical Engineering
 
 
