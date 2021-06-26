@@ -14,7 +14,7 @@ For avoid this waiting time, I implemented an advanced way of using multi-proces
 
 ## Full wave inversion and development of pre/post processing tool for massive amount of seismic observation data.
 This is the project (part of my postdoc works) to realize a seismic tomography using Spectral Element Method and Full wave inversion for studying the subsurface structure of Japanese islands.
-I am developing an Gui application for downloading, pre/post-processing and shipping the massive seismic observation data to HPC and computation clusters.
+I am developing an Gui application for downloading, pre/post-processing, configurating a set of files/scripts for running a full wave inversion and shipping the massive seismic observation data to HPC and computation clusters.
 ![img](/images/img_for_cheese.png)
 ![img](/images/ppff.png)
 
