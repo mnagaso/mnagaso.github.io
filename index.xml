@@ -3,6 +3,6 @@ M. Nagaso, D. Komatitsch, J. Moysan, and C. Lhuillier. Numerical simulation of u
 The I/O is one of the significant bottleneck for achieving a scalable computation (the ratio between the number of processors and the computation time is enoughly close to a linear), because the limitation of file I/O bandwidth blocks the other computing processes.</description></item><item><title>Resume</title><link>https://mnagaso.github.io/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mnagaso.github.io/resume/</guid><description>Personal date Name: Masaru NAGASO
 Address: Marseille, France
 github, gitlab, linkedin, researchgate
-Language English (fluent) French (intermediate) Japanese (native) Experience 01.june.2019&amp;ndash;31.may.2021 Postdoctral research assistant
+Language English (fluent) French (intermediate) Japanese (native) Experience 01.june.2019&amp;ndash;31.dec.2021 Postdoctral research assistant
 CNRS-LMA, Marseille, France
 Co-lead developer of SPECFEM3D for ChEESE project, which is the international project in the domain of geoscience for preparing Exascale HPC founded from [the European Union&amp;rsquo;s Horizon 2020](https://ec.europa.eu/programmes/horizon2020/en}. I/O optimization and designing/developing a workflow toward a full-wave inversion calculation on Exascale HPC machines.</description></item></channel></rss>
