@@ -24,7 +24,7 @@ skype: mnsaru
     
 ## Experience
 
-### 01.june.2019--31.may.2021
+### 01.june.2019--31.dec.2021
 Postdoctral research assistant  
 CNRS-LMA, Marseille, France  
 Co-lead developer of [SPECFEM3D](https://github.com/geodynamics/specfem3d) for [ChEESE project](https://cheese-coe.eu/), which is the international project in the domain of geoscience for preparing Exascale HPC founded from [the European Union's Horizon 2020](https://ec.europa.eu/programmes/horizon2020/en}.
