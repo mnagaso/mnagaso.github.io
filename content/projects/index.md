@@ -33,7 +33,7 @@ In the calculation routine of this library, nonlinear mixed effect modeling was 
 Golden search algorithm was also implemented during the routine.  
 This code was developed as a part of research project by Dr. Keita Tokuda, a project researcher at The University of Tokyo Hospital.  
 Keywords: Maximum likelihood estimation, Nonlinear mixed effect model, Golden search
-![img](/images/sreft.png)
+<!-- ![img](/images/sreft.png) -->
 
 ## Improvement of multi-label classification using C2AE and fine-tuning with Transformer-lm
 In order to improve the accuracy of multi-label classification task with Canonical Correlated AutoEncoder (C2AE) for limited amount of input texts, we applied the method of "Improving Language Understanding by Generative Pre-Training" so called (finetune-transformer-lm).  
