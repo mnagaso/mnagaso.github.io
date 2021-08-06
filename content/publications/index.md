@@ -1,7 +1,7 @@
 # publication page
 
 ## published
-Nagaso M. [Study of ultrasound wave propagation in a heterogeneous fluid medium for the monitoring of an operating sodium-based nuclear reactor](https://tel.archives-ouvertes.fr/tel-01798471/document) (Doctoral dissertation, Université d'Aix Marseille).
+Nagaso M. [Study of ultrasound wave propagation in a heterogeneous fluid medium for the monitoring of an operating sodium-based nuclear reactor](https://tel.archives-ouvertes.fr/tel-01798471/) (Doctoral dissertation, Université d'Aix Marseille).
 
 Nagaso M, Komatitsch D, Moysan J, Lhuillier C. [Numerical simulation of ultrasonic wave propagation in a sodium cooling system in an inhomogeneous temperature field using the spectral-element method](https://hal.archives-ouvertes.fr/hal-01304039/). In19th World Conference on Non-Destructive Testing 2016 Jun 13.
 
