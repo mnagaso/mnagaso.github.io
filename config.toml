@@ -50,7 +50,7 @@ weight = 4
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
   # Home page settings
-  description = "I am a post doctoral researcher living in Marseille/France🇫🇷. My scientific interest is Numerical modeling of a wave propagation🔊 and performance optimization of numerical code for HPC💻. I am also interested in the recent techniques of computer science including cluster detection, natural language processing, transformer, encoder-decoder etc... and cats😽. I can speak English(fluent), French(intermediate) and Japanese(native)."
+  description = "I am a post doctoral researcher living in Singapore 🇸🇬. My scientific interest is Numerical modeling of a wave propagation🔊 and performance optimization of numerical codes for HPC💻. I am also interested in the recent techniques of computer science including cluster detection, natural language processing, transformer, encoder-decoder etc... and cats😽. I can speak English(fluent), French(intermediate) and Japanese(native)."
   mainSection = "resume" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 0 # this option will be ignored if showAllPostsOnHomePage is set to true
@@ -85,7 +85,7 @@ weight = 4
     link = "https://www.linkedin.com/in/nagaso-masaru-6b20705a"
   [[params.social]]
     name = "email"
-    link = "nagaso@lme.cnrs-mrs.fr"  # no need for "mailto:" in the head
+    link = "masaru.nagaso@ntu.edu.sg"  # no need for "mailto:" in the head
   [[params.social]]
     name = "email"
     link = "mnsaru22@gmail.com"  # no need for "mailto:" in the head

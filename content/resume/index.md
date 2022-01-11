@@ -4,7 +4,7 @@ title: Resume
 
 ## Personal date
 Name: Masaru NAGASO  
-Address: Marseille, France
+Address: Singapore
 <!--
 Address: 7 Square Protis, 13002 Marseille, France  
 Mobile: +33 (0)7 83 15 24 33  
@@ -23,6 +23,11 @@ skype: mnsaru
 - Japanese (native)
     
 ## Experience
+
+### 03.jan.2022 - Present
+Research fellow
+Mathematical Imaging and Geophysics Group, Nanyang Technological University, Singapore
+Lead developer of the project ESFAST (HPC ready eikonal solver and pre/post-processing tools for adjoint-state travel-time tomography).
 
 ### 01.june.2019--31.dec.2021
 Postdoctral research assistant  
