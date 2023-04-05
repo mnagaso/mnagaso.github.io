@@ -26,8 +26,8 @@ skype: mnsaru
 
 ### 03.jan.2022 - Present
 Research fellow
-Mathematical Imaging and Geophysics Group, Nanyang Technological University, Singapore
-Lead developer of the project ESFAST (HPC ready eikonal solver and pre/post-processing tools for adjoint-state travel-time tomography).
+Mathematical Imaging and Geophysics Group, Nanyang Technological University / Earth Observatory of Singapore, Singapore
+Lead developer of the project [TomoATT](https://migg-ntu.github.io/TomoATT-docs/) (HPC ready eikonal solver based adjoint state seismic tomographic library).
 
 ### 01.june.2019--31.dec.2021
 Postdoctral research assistant  
