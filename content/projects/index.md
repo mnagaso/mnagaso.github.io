@@ -6,12 +6,16 @@ title: Projects
 # My former and current projects
 
 
-## ESFAST : Eikonal-based Solver For Adjoint-State travel-time Tomography
-I am currently working on this project. Eikonal-based solver for calculating travel times is computationally much lighter than full-waveform inversion.
-By using this method, we will try to achieve a tomographic image of the Earth structure with a very high resolution.
-The aim of this project is to develop a numerical library for making the calculation of adjoint-state travel-time tomography, but not only the solver, which is well optimized for the use on HPCs of Exascale-era.
-I am a lead developer of this project.
+## TomoATT : Eikonal equation based adjoint-state travel-time tomography
+I am currently working on this project.
+Working as a lead developer of an open-source code project [TomoATT](https://migg-ntu.github.io/TomoATT-docs/), which is a library for eikonal equation based adjoint-state travel time tomography, optimized for a use on HPCs (implemented with MPI, MPI-SHMEM, CUDA and parallel-HDF5 with SIMD optimization, containerlized with Docker and Singularity.
 
+The code has been tested on Fugaku @ RIKEN and a good scalability has been confirmed.
+![img](/images/TomoATT_logo_2.png)
+![img](/images/Esfast_flowchart.drawio.png)
+![img](/images/Fugaku_benchmark.png)
+![img](/images/vel_anim.gif)
+![img](/images/bench_avx_cuda.png)
 
 ## I/O optimization and designing/developing a workflow toward a full-wave inversion calculation on Exascale HPC machines.
 This is a project (part of my postdoc works) for code optimization towards a use on Exascale High Performance Computers or supercomputers.  
