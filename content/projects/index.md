@@ -11,10 +11,8 @@ I am currently working on this project.
 Working as a lead developer of an open-source code project [TomoATT](https://migg-ntu.github.io/TomoATT-docs/), which is a library for eikonal equation based adjoint-state travel time tomography, optimized for a use on HPCs (implemented with MPI, MPI-SHMEM, CUDA and parallel-HDF5 with SIMD optimization, containerlized with Docker and Singularity).
 
 ![img](/images/TomoATT_logo_2.png)
-![img](/images/Esfast_flowchart.drawio.png)
 ![img](/images/vel_anim.gif)
-<img style="float: left;" src="/images/Fugaku_benchmark.png">
-<img style="float: right;" src="/images/bench_avx_cuda.png  ">
+![img](/images/Fugaku_benchmark.png)
 
 
 ## I/O optimization and designing/developing a workflow toward a full-wave inversion calculation on Exascale HPC machines.
