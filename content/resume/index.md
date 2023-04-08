@@ -27,13 +27,13 @@ skype: mnsaru
 ### 03.jan.2022 - Present
 Research fellow
 Mathematical Imaging and Geophysics Group, Nanyang Technological University / Earth Observatory of Singapore, Singapore
-Lead developer of the project [TomoATT](https://migg-ntu.github.io/TomoATT-docs/) (HPC ready eikonal solver based adjoint state seismic tomographic library).
+Lead developer of the project [TomoATT](https://migg-ntu.github.io/TomoATT-docs/) (HPC-ready eikonal solver based adjoint state seismic tomographic library).
 
 ### 01.june.2019--31.dec.2021
 Postdoctral research assistant  
 CNRS-LMA, Marseille, France  
-Co-lead developer of [SPECFEM3D](https://github.com/geodynamics/specfem3d) for [ChEESE project](https://cheese-coe.eu/), which is the international project in the domain of geoscience for preparing Exascale HPC founded from [the European Union's Horizon 2020](https://ec.europa.eu/programmes/horizon2020/en).
-I/O optimization and designing/developing a workflow toward a full-wave inversion calculation on Exascale HPC machines.
+Co-lead developer of [SPECFEM3D](https://github.com/geodynamics/specfem3d) for the [ChEESE project](https://cheese-coe.eu/), which is an international project in the domain of geoscience for preparing Exascale HPC, founded by [the European Union's Horizon 2020](https://ec.europa.eu/programmes/horizon2020/en).
+I/O optimization and design/development of a workflow for full-wave inversion calculation on Exascale HPC machines.
 
 ![img](/images/img_for_cheese.png)
 <!--![logo](/images/logo_lma.png) -->
@@ -43,23 +43,23 @@ I/O optimization and designing/developing a workflow toward a full-wave inversio
 ### 01.oct.2018--31.may.2019
 Scientific researcher  
 Protisvalor/IUT-LCND, Aix-en-Procenve, France  
-Large-scale numerical simulation of an ultrasonic wave in new generation of Sodium-cooled Fast Reactors (SFR) with Spectral Element Method (SEM: higher-order finite element method).
-Development of a numerical library for accessing a large size calculation data and post-processing.
+Large-scale numerical simulation of an ultrasonic wave in the new generation of Sodium-cooled Fast Reactors (SFR) with Spectral Element Method (SEM: a higher-order finite element method).
+Development of a numerical library for accessing large-sized calculation data and post-processing.
 
 ### 01.jan.2016--30.jun.2019
 Scientific software developer  
 Hanoi, Vietnam (Remote)  
 Development of scientific computation libraries.  
-- Network hierarchical clustering application which performs Louvain method for calculating Modularity, Map equation.  
+- Network hierarchical clustering application which performs the Louvain method for calculating Modularity and Map equation.  
 - Python scripts for Natural Language Processing (NLP).  
 - Web scraping system for parallel and massive data acquisition.  
-- Numerical library for Alzheimer's "Disease time" estimation which partly uses Nonlinear mixed effect and covariate modeling.
+- Numerical library for estimating "Disease time" in Alzheimer's disease, which partly uses nonlinear mixed effect and covariate modeling.
 
 
 ### 02.fev.2015--31.may.2018
 PhD candidate  
 CEA Cadarache, Saint-Paul-lez-Durance, France  
-Research and development on numerical modeling method for a wave propagation in a realistic fluctuating acoustic medium.  
+Research and development of numerical modeling method for wave propagation in a realistic fluctuating acoustic medium.  
 2D and 3D elasto-acoustic wave propagation simulation in Sodium-cooled fast reactors, which is an application for acoustic thermometry to detect accurate and instantaneous temperature in sodium jets.  
     
 
