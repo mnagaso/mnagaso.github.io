@@ -27,7 +27,7 @@ on exascale high performance computing machines. The
 International Journal of High Performance Computing Applications, 2021.
 
 
-### My codes' outcomes
+## My codes' outcomes
 
 J. Chen, G. Chen, M. Nagaso, and P. Tong. [Adjoint-state traveltime tomography for azimuthally anisotropic media in spherical coordinates](https://doi.org/10.1093/gji/ggad093). Geophysical Journal International, 234(1):712–736, 03 2023.
 
