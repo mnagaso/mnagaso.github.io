@@ -20,6 +20,9 @@ This was a project (part of my former postdoc work) for code optimization toward
 The I/O is one of the significant bottlenecks for achieving a scalable computation,
 because the limitation of file I/O bandwidth blocks the other computing processes.
 To avoid this waiting time, I implemented an advanced way of using multi-processors, i.e. preparing some I/O dedicated nodes (we call this I/O server) then the computing process may only do their computation while actual I/O processes are done on only the I/O servers, which realize asynchronous I/O.
+![img](/images/io_server_diagram.png)
+![img](/images/io_server.png)
+![img](images/time_by_proc.png)
 
 ## Full wave inversion and development of pre/post processing tool for massive amount of seismic observation data.
 This aws the project (part of my former postdoc works) to realize seismic tomography using Spectral Element Method and Full wave inversion for studying the subsurface structure of Japanese islands.
