@@ -13,6 +13,7 @@ Working as a lead developer of an open-source code project [TomoATT](https://mig
 ![img](/images/TomoATT_logo_2.png)
 ![img](/images/vel_anim.gif)
 ![img](/images/Fugaku_benchmark.png)
+![img](/images/bench_axv_cuda.png)
 
 
 ## I/O optimization and designing/developing a workflow toward a full-wave inversion calculation on Exascale HPC machines.
