@@ -24,7 +24,19 @@ skype: mnsaru
     
 ## Experience
 
-### 03.jan.2022 - Present
+### 01.jan.2024 - present
+Postdoctoral research fellow
+Department of Applied Mathematics and Statistics, Colorado School of Mines, Golden, CO, USA
+Development of Global Full-Waveform Inversion model and libraries (part of [NSF SCOPED project](https://seisscoped.org/)). 
+Studying on: 
+- I/O bottleneck towards Exa-scale HPC era. e.g. application of Asynchronous I/O, Lossy compression etc.,
+- an adaptable filtering technique for in-ocean seismometer system (MERMAIDS), 
+- and application of them all to FWI calculation.
+
+![img](/images/banana.png)
+![img](/images/lossy.png)
+
+### 03.jan.2022 - 31.dec.2023
 Research fellow  
 Mathematical Imaging and Geophysics Group, Nanyang Technological University / Earth Observatory of Singapore, Singapore
 Lead developer of the project [TomoATT](https://migg-ntu.github.io/TomoATT-docs/) (HPC-ready eikonal solver based adjoint state seismic tomographic library).
