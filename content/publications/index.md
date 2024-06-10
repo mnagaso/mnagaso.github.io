@@ -3,9 +3,14 @@
 ## published
 
 ### My main works
+
+Nagaso M, Orsvuran R, Wang Y, Peter D, Bozdag E. Computational Challenges of Large-Scale Numerical Simulations and Full-Waveform Inversion Workflows (Posterwnumber: 119). Seismological Society of America 2024 Annual Meeting, April 29-May 3, Anchorage, AK, USA.
+
+Nagaso M. Chen J, Tong P. TomoATT : A new HPC-ready open-source project of Eikonal equation solver based adjoint state traveltime tomography for a large-scale imaging of subsurface velocity heterogeneity and seismic anisotropy. Japan Geoscience Union Meeting 2023, May 21-26, 2023, Chiba, Japan.
+
 Nagaso M. [Study of ultrasound wave propagation in a heterogeneous fluid medium for the monitoring of an operating sodium-based nuclear reactor](https://tel.archives-ouvertes.fr/tel-01798471/) (Doctoral dissertation, Université d'Aix Marseille).
 
-Nagaso M, Komatitsch D, Moysan J, Lhuillier C. [Numerical simulation of ultrasonic wave propagation in a sodium cooling system in an inhomogeneous temperature field using the spectral-element method](https://hal.archives-ouvertes.fr/hal-01304039/). In19th World Conference on Non-Destructive Testing 2016 Jun 13.
+Nagaso M, Komatitsch D, Moysan J, Lhuillier C. [Numerical simulation of ultrasonic wave propagation in a sodium cooling system in an inhomogeneous temperature field using the spectral-element method](https://hal.archives-ouvertes.fr/hal-01304039/). In 19th World Conference on Non-Destructive Testing 2016 Jun 13.
 
 Nagaso M, Komatitsch D, Moysan J, Lhuillier C. [Wave propagation simulation in the upper core of sodium-cooled fast reactors using a spectral-element method for heterogeneous media](https://inis.iaea.org/collection/NCLCollectionStore/_Public/50/048/50048699.pdf). 8th ANNIMA, 170:03006, 2018.
 
@@ -29,14 +34,20 @@ International Journal of High Performance Computing Applications, 2021.
 
 ## My codes' outcomes
 
-J. Chen, G. Chen, M. Nagaso, and P. Tong. [Adjoint-state traveltime tomography for azimuthally anisotropic media in spherical coordinates](https://doi.org/10.1093/gji/ggad093). Geophysical Journal International, 234(1):712–736, 03 2023.
+Tong P, Chen JM, Nagaso M, Hao S, Li T, Xu M. TomoATT Release: A comprehensive software package boasting 21 inversion schemes for seismic velocity structures and earthquake locations. AGU23.
 
-J. Chen, M. Nagaso, and P. Tong. [Tomoatt: A software package of adjoint-state traveltime tomography for imaging subsurface velocity heterogeneity and seismic anisotropy](https://doi.org/10.5194/egusphere-egu23-10556). In EGU General Assembly. 2023.
+Chen J, Wu S, Xu M, Nagaso M, Yao J, Wang K, Li T, Bai Y, Tong P. [Adjoint‐State Teleseismic Traveltime Tomography: Method and Application to Thailand in Indochina Peninsula](https://doi.org/10.1029/2023JB027348). Journal of Geophysical Research: Solid Earth. 2023 Dec;128(12):e2023JB027348.
 
-P. Tong, J. Chen, M. Nagaso, and S. Hao. [Adjoint-state traveltime tomography: A new modality of seismic imaging](https://doi.org/10.5194/egusphere-egu23-6305). In EGU General Assembly. 2023.
+Tong P, Li T, Chen J, Nagaso M. [Adjoint-state differential arrival time tomography](https://doi.org/10.1093/gji/ggad416). Geophysical Journal International. 2024 Jan;236(1):139-60.
 
-Y. Bai, M. Ramdhan, S. Yang, T. Li, J. Chen, M. Nagaso, and P. Tong. [Adjoint-state traveltime tomography in central java enhanced by a machine-learning-assisted catalog](https://doi.org/10.5194/egusphere-egu23-6504). In EGU General Assembly. 2023.
+Chen J, Chen G, Nagaso M, Tong P. [Adjoint-state traveltime tomography for azimuthally anisotropic media in spherical coordinates](https://doi.org/10.1093/gji/ggad093). Geophysical Journal International, 234(1):712–736, 03 2023.
 
-A. Folch and 94 others. [The eu center of excellence for exascale in solid earth (cheese): Implementation, results, and roadmap for the second phase](https://doi.org/10.1016/j.future.2023.04.006). Future Generation Computer Systems, 2023.
+Chen J, Nagaso M, Tong P. [Tomoatt: A software package of adjoint-state traveltime tomography for imaging subsurface velocity heterogeneity and seismic anisotropy](https://doi.org/10.5194/egusphere-egu23-10556). In EGU General Assembly. 2023.
 
-P. Tong, M. Nagaso, and Chen J. [Tomoatt: A new open-source traveltime tomography package for subsurface velocity heterogeneity and seismic anisotropy](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1146552). In AGU Fall meeting. 2022.
+Tong P, Chen J, Nagaso M, Hao S. [Adjoint-state traveltime tomography: A new modality of seismic imaging](https://doi.org/10.5194/egusphere-egu23-6305). In EGU General Assembly. 2023.
+
+Bai Y, Ramdhan M, Yang S, Li T, Chen J, Nagaso M, Tong P. [Adjoint-state traveltime tomography in central java enhanced by a machine-learning-assisted catalog](https://doi.org/10.5194/egusphere-egu23-6504). In EGU General Assembly. 2023.
+
+Folch A. and 94 others. [The eu center of excellence for exascale in solid earth (cheese): Implementation, results, and roadmap for the second phase](https://doi.org/10.1016/j.future.2023.04.006). Future Generation Computer Systems, 2023.
+
+Tong P, Nagaso M, Chen J. [Tomoatt: A new open-source traveltime tomography package for subsurface velocity heterogeneity and seismic anisotropy](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1146552). In AGU Fall meeting. 2022.
