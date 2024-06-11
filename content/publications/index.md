@@ -4,7 +4,7 @@
 
 ### My main works
 
-Nagaso M, Orsvuran R, Wang Y, Peter D, Bozdag E. Computational Challenges of Large-Scale Numerical Simulations and Full-Waveform Inversion Workflows (Posterwnumber: 119). Seismological Society of America 2024 Annual Meeting, April 29-May 3, Anchorage, AK, USA.
+Nagaso M, Orsvuran R, Wang Y, Peter D, Bozdag E. [Computational Challenges of Large-Scale Numerical Simulations and Full-Waveform Inversion Workflows (Posterwnumber: 119)](https://doi.org/10.1785/0220240136). Seismological Society of America 2024 Annual Meeting, April 29-May 3, Anchorage, AK, USA.
 
 Nagaso M. Chen J, Tong P. TomoATT : A new HPC-ready open-source project of Eikonal equation solver based adjoint state traveltime tomography for a large-scale imaging of subsurface velocity heterogeneity and seismic anisotropy. Japan Geoscience Union Meeting 2023, May 21-26, 2023, Chiba, Japan.
 
