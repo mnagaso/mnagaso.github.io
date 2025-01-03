@@ -1,6 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web CV of Masaru NAGASO</title><link>https://mnagaso.github.io/</link><description>Recent content on Web CV of Masaru NAGASO</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://mnagaso.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://mnagaso.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mnagaso.github.io/publications/</guid><description>publication page published My main works Nagaso M, Orsvuran R, Wang Y, Peter D, Bozdag E. Computational Challenges of Large-Scale Numerical Simulations and Full-Waveform Inversion Workflows (Posterwnumber: 119). Seismological Society of America 2024 Annual Meeting, April 29-May 3, Anchorage, AK, USA.
-Nagaso M. Chen J, Tong P. TomoATT : A new HPC-ready open-source project of Eikonal equation solver based adjoint state traveltime tomography for a large-scale imaging of subsurface velocity heterogeneity and seismic anisotropy.</description></item><item><title>Projects</title><link>https://mnagaso.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mnagaso.github.io/projects/</guid><description>My former and current projects TomoATT : Eikonal equation based adjoint-state travel-time tomography I am currently working on this project. Workin as a lead developer of an open-source code project TomoATT, which is a library for eikonal equation based adjoint-state travel time tomography, optimized for a use on HPCs (implemented with MPI, MPI-SHMEM, GPU with SIMD optimization, and parallel-HDF5, containerlized with Docker and Singularity). Built up an opensource project TomoATT : https://github.</description></item><item><title>Resume</title><link>https://mnagaso.github.io/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mnagaso.github.io/resume/</guid><description>Personal date Name: Masaru NAGASO
-Address: Singapore
-github, gitlab, linkedin, researchgate
-Language English (fluent) French (intermediate) Japanese (native) Experience 01.jan.2024 - present Postdoctoral research fellow Department of Applied Mathematics and Statistics, Colorado School of Mines, Golden, CO, USA Development of Global Full-Waveform Inversion model and libraries (part of NSF SCOPED project). Studying on:
-I/O bottleneck towards Exa-scale HPC era. e.g. application of Asynchronous I/O, Lossy compression etc., an adaptable filtering technique for in-ocean seismometer system (MERMAIDS), and application of them all to FWI calculation.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Web CV of Masaru NAGASO</title><link>https://mnagaso.github.io/</link><description>Recent content on Web CV of Masaru NAGASO</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://mnagaso.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://mnagaso.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mnagaso.github.io/publications/</guid><description>&lt;h1 id="publication-page">publication page&lt;/h1>
+&lt;h2 id="published">published&lt;/h2>
+&lt;h3 id="my-main-works">My main works&lt;/h3>
+&lt;p>Nagaso M, Orsvuran R, Wang Y, Peter D, Bozdag E. &lt;a href="https://doi.org/10.1785/0220240136">Computational Challenges of Large-Scale Numerical Simulations and Full-Waveform Inversion Workflows (Posterwnumber: 119)&lt;/a>. Seismological Society of America 2024 Annual Meeting, April 29-May 3, Anchorage, AK, USA.&lt;/p>
+&lt;p>Nagaso M. Chen J, Tong P. TomoATT : A new HPC-ready open-source project of Eikonal equation solver based adjoint state traveltime tomography for a large-scale imaging of subsurface velocity heterogeneity and seismic anisotropy. Japan Geoscience Union Meeting 2023, May 21-26, 2023, Chiba, Japan.&lt;/p></description></item><item><title>Projects</title><link>https://mnagaso.github.io/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mnagaso.github.io/projects/</guid><description>&lt;h1 id="my-former-and-current-projects">My former and current projects&lt;/h1>
+&lt;h2 id="tomoatt--eikonal-equation-based-adjoint-state-travel-time-tomography">TomoATT : Eikonal equation based adjoint-state travel-time tomography&lt;/h2>
+&lt;p>I am currently working on this project.
+Workin as a lead developer of an open-source code project &lt;a href="https://tomoatt.com/docs/">TomoATT&lt;/a>, which is a library for eikonal equation based adjoint-state travel time tomography, optimized for a use on HPCs (implemented with MPI, MPI-SHMEM, GPU with SIMD optimization, and parallel-HDF5, containerlized with Docker and Singularity).
+Built up an opensource project TomoATT : &lt;a href="https://github.com/MIGG-NTU/TomoATT">https://github.com/MIGG-NTU/TomoATT&lt;/a>&lt;/p></description></item><item><title>Resume</title><link>https://mnagaso.github.io/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mnagaso.github.io/resume/</guid><description>&lt;h2 id="personal-date">Personal date&lt;/h2>
+&lt;p>Name: Masaru NAGASO&lt;br>
+Address: Japan&lt;/p>
+&lt;!--
+Address: 7 Square Protis, 13002 Marseille, France 
+Mobile: +33 (0)7 83 15 24 33 
+Email: nagaso@lma.cnrs-mrs.fr 
+Email (private): mnsaru22@gmail.com 
+skype: mnsaru 
+-->
+&lt;p>&lt;a href="https://github.com/mnagaso">github&lt;/a>,
+&lt;a href="https://gitlab.com/mnagaso">gitlab&lt;/a>,
+&lt;a href="https://www.linkedin.com/in/nagaso-masaru-6b20705a/">linkedin&lt;/a>,
+&lt;a href="https://www.researchgate.net/profile/Masaru-Nagaso">researchgate&lt;/a>&lt;/p>
+&lt;h3 id="language">Language&lt;/h3>
+&lt;ul>
+&lt;li>English (fluent)&lt;/li>
+&lt;li>French (fluent)&lt;/li>
+&lt;li>Japanese (native)&lt;/li>
+&lt;/ul>
+&lt;h2 id="experience">Experience&lt;/h2>
+&lt;h3 id="01jan2025---present">01.jan.2025 - present&lt;/h3>
+&lt;p>Technical Scientist
+RIKEN Center for Computational Science, Kobe, Japan
+Development of libraries for data compression and multi-modal deep learning.&lt;/p>
+&lt;h3 id="01jan2024---31dec2024">01.jan.2024 - 31.dec.2024&lt;/h3>
+&lt;p>Postdoctoral research fellow
+Department of Applied Mathematics and Statistics, Colorado School of Mines, Golden, CO, USA
+Development of Global Full-Waveform Inversion model and libraries (part of &lt;a href="https://seisscoped.org/">NSF SCOPED project&lt;/a>).
+Studying on:&lt;/p></description></item></channel></rss>
