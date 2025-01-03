@@ -4,7 +4,7 @@ title: Resume
 
 ## Personal date
 Name: Masaru NAGASO  
-Address: Singapore
+Address: Japan
 <!--
 Address: 7 Square Protis, 13002 Marseille, France  
 Mobile: +33 (0)7 83 15 24 33  
@@ -19,7 +19,7 @@ skype: mnsaru
  
 ### Language
 - English (fluent)
-- French (intermediate)
+- French (fluent)
 - Japanese (native)
     
 ## Experience
