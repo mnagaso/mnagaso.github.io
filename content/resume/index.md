@@ -24,7 +24,12 @@ skype: mnsaru
     
 ## Experience
 
-### 01.jan.2024 - present
+### 01.jan.2025 - present
+Technical Scientist
+RIKEN Center for Computational Science, Kobe, Japan
+Development of libraries for data compression and multi-modal deep learning.
+
+### 01.jan.2024 - 31.dec.2024
 Postdoctoral research fellow
 Department of Applied Mathematics and Statistics, Colorado School of Mines, Golden, CO, USA
 Development of Global Full-Waveform Inversion model and libraries (part of [NSF SCOPED project](https://seisscoped.org/)). 
