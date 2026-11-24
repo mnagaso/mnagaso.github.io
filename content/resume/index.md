@@ -85,9 +85,7 @@ Research and development of numerical modeling method for wave propagation in a 
 - Supercomputing Asia (SCA) 2027: Tutorial board member
 - IEEE Cluster 2026: Reviewer
 - IEEE/ACM CCGrid 2026: Reviewer
-
-## Computing allocations
-- LLNL Institutional Computing Grand Challenge Program (19th - 21st rounds), Lawrence Livermore National Laboratory, USA
+- 19th - 21st LLNL Institutional Computing Grand Challenge Program, Lawrence Livermore National Laboratory, USA
 
 ## Education
 
