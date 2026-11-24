@@ -8,7 +8,6 @@ title: Projects
 ## Scientific data compression and I/O for exascale HPC (RIKEN R-CCS, 2025 - present)
 Development of libraries for lossy compression of scientific data, I/O optimization for large-scale Full-Waveform Inversion, and multi-modal deep learning workflows.
 Contributed to the community study on the state of practice for lossy compression across 9 supercomputing application domains, published at [SC25](https://doi.org/10.1145/3712285.3759856).
-Supported by the LLNL Institutional Computing Grand Challenge Program (19th - 21st rounds).
 
 
 ## TomoATT : Eikonal equation based adjoint-state travel-time tomography
