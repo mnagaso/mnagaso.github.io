@@ -5,10 +5,14 @@ title: Projects
 
 # My former and current projects
 
+## Scientific data compression and I/O for exascale HPC (RIKEN R-CCS, 2025 - present)
+Development of libraries for lossy compression of scientific data, I/O optimization for large-scale Full-Waveform Inversion, and multi-modal deep learning workflows.
+Contributed to the community study on the state of practice for lossy compression across 9 supercomputing application domains, published at [SC25](https://doi.org/10.1145/3712285.3759856).
+Supported by the LLNL Institutional Computing Grand Challenge Program (19th - 21st rounds).
+
 
 ## TomoATT : Eikonal equation based adjoint-state travel-time tomography
-I am currently working on this project.
-Workin as a lead developer of an open-source code project [TomoATT](https://tomoatt.com/docs/), which is a library for eikonal equation based adjoint-state travel time tomography, optimized for a use on HPCs (implemented with MPI, MPI-SHMEM, GPU with SIMD optimization, and parallel-HDF5, containerlized with Docker and Singularity).
+Worked as a lead developer of an open-source code project [TomoATT](https://tomoatt.com/docs/), which is a library for eikonal equation based adjoint-state travel time tomography, optimized for a use on HPCs (implemented with MPI, MPI-SHMEM, GPU with SIMD optimization, and parallel-HDF5, containerlized with Docker and Singularity).
 Built up an opensource project TomoATT : https://github.com/MIGG-NTU/TomoATT
 
 
@@ -17,7 +21,7 @@ Obtained 2 HPC allocations for TomoATT project:
 - ASPIRE1&2A NSCC, Singapore, 2022, 12002694, 1,574,400 CPU+GPU hours
 - ASPIRE2A,NSCC, Singapore, 2023, 12002694, 2,620,000 CPU+GPU hours
 
-One full article and 6 conferences resulted by TomoATT.
+TomoATT has resulted in journal articles including the software paper in [Computers & Geosciences (2025)](https://doi.org/10.1016/j.cageo.2025.105995) and a study of the 2023 Kahramanmaraş earthquake in [Nature Geoscience (2026)](https://doi.org/10.1038/s41561-025-01893-z), as well as multiple conference presentations.
 
 ![img](/images/TomoATT_logo_2.png)
 ![img](/images/vel_anim.gif)

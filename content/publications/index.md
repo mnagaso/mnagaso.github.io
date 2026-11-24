@@ -32,7 +32,17 @@ on exascale high performance computing machines. The
 International Journal of High Performance Computing Applications, 2021.
 
 
-## My codes' outcomes
+## My codes' outcomes / co-authored works
+
+Chen J, Xu M, Bai Y, Wu S, Xiao X, Hao S, Nagaso M, Yang H, Tong P. [High normal stress promoted supershear rupture during the 2023 Mw 7.8 Kahramanmaraş earthquake](https://doi.org/10.1038/s41561-025-01893-z). Nature Geoscience. 2026;19(2):223-230.
+
+Cappello F, Underwood R, Alexeev Y, Baker A, Bozdağ E, Burtscher M, ..., Nagaso M, ... [What to Support When You're Compressing: The State of Practice, Gaps, and Opportunities for Scientific Data Compression](https://doi.org/10.1145/3712285.3759856). Proceedings of SC25 (International Conference for High Performance Computing, Networking, Storage and Analysis), ACM, 2025, pp. 1966-1979.
+
+Chen J, Nagaso M, Xu M, Tong P. [TomoATT: An open-source package for Eikonal equation-based adjoint-state traveltime tomography for seismic velocity and azimuthal anisotropy](https://doi.org/10.1016/j.cageo.2025.105995). Computers & Geosciences. 2025;204:105995.
+
+Denolle MA, Tape C, Bozdağ E, Wang Y, Waldhauser F, Gabriel AA, et al. [Training the Next Generation of Seismologists: Delivering Research-Grade Software Education for Cloud and HPC Computing through Diverse Training Modalities](https://arxiv.org/abs/2409.19147). Seismological Research Letters. 2025;96(5):3265-3279.
+
+Cappello F, Baker A, Bozdağ E, Burtscher M, Chard K, Di S, O'Grady PC, et al. [Lossy Compression of Scientific Data: Applications Constraints and Requirements](https://arxiv.org/abs/2503.20031). arXiv preprint arXiv:2503.20031. 2025.
 
 Tong P, Chen JM, Nagaso M, Hao S, Li T, Xu M. TomoATT Release: A comprehensive software package boasting 21 inversion schemes for seismic velocity structures and earthquake locations. AGU23.
 

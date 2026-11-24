@@ -26,8 +26,8 @@ skype: mnsaru
 
 ### 01.jan.2025 - present
 Technical Scientist
-RIKEN Center for Computational Science, Kobe, Japan
-Development of libraries for data compression and multi-modal deep learning.
+RIKEN Center for Computational Science (Data Management Platform Development Unit / High Performance Big Data Research Team), Kobe, Japan
+Development of libraries for data compression and multi-modal deep learning, and I/O optimization for large-scale Full-Waveform Inversion.
 
 ### 01.jan.2024 - 31.dec.2024
 Postdoctoral research fellow
@@ -79,6 +79,15 @@ CEA Cadarache, Saint-Paul-lez-Durance, France
 Research and development of numerical modeling method for wave propagation in a realistic fluctuating acoustic medium.  
 2D and 3D elasto-acoustic wave propagation simulation in Sodium-cooled fast reactors, which is an application for acoustic thermometry to detect accurate and instantaneous temperature in sodium jets.  
     
+
+## Professional activities
+- 2025 - present: Steering committee member, IPSJ SIG-HPC (Information Processing Society of Japan, Special Interest Group on High Performance Computing)
+- Supercomputing Asia (SCA) 2027: Tutorial board member
+- IEEE Cluster 2026: Reviewer
+- IEEE/ACM CCGrid 2026: Reviewer
+
+## Computing allocations
+- LLNL Institutional Computing Grand Challenge Program (19th - 21st rounds), Lawrence Livermore National Laboratory, USA
 
 ## Education
 
