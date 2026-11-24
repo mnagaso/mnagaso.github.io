@@ -28,6 +28,7 @@ skype: mnsaru
 Technical Scientist
 RIKEN Center for Computational Science (Data Management Platform Development Unit / High Performance Big Data Research Team), Kobe, Japan
 Development of libraries for data compression and multi-modal deep learning, and I/O optimization for large-scale Full-Waveform Inversion.
+Sub-leader of the FugakuNEXT AI software working group.
 
 ### 01.jan.2024 - 31.dec.2024
 Postdoctoral research fellow
